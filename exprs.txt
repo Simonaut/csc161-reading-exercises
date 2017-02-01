@@ -1,0 +1,10 @@
+Question 1
+int represents an integer.
+float represents a number with a fractional component.
+short gives a short integer.
+double gives a doubly precise float answer.
+
+Question 2
+The answer should be 3.5, since float does not need to give an 
+integer and the math itself indicates that the answer would be 3.5.
+
